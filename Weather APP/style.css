@@ -1,0 +1,48 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.search-container {
+    margin-top: 50px;
+}
+
+.search-container input[type=text] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #ccc;
+}
+
+.search-container button {
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.weather-container {
+    margin-top: 50px;
+}
+
+.temperature {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 24px;
+    margin-top: -20px;
+}
+
+.humidity,
+.wind {
+    font-size: 18px;
+}

@@ -1,2 +1,2 @@
-# learnReact
-Learn React JS - Simple Project
+# Weather APP
+Weather APP by React JS
